@@ -4,7 +4,8 @@
 
 - <b>Excel</b>
   - [Anaheim Ducks Excel Dashboard](https://github.com/taylorheyen/AnaheimDucksExcelProject)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>SQL</b>
+  -[Analyze International Debt](https://github.com/taylorheyen/AnalyzeInternationalDebt/blob/main/AnalyzeDebtStats.ipynb)
 - <b>PowerShell</b>
 - <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
